@@ -1,4 +1,4 @@
-# CP1
+# Final Project
 # Automatic bubble machine
 One-sentence summary of your project goes here; then fill out each of the following sections.
 
