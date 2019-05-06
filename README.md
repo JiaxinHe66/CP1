@@ -20,3 +20,11 @@ Week 4: Present!
 
 # Challenges
 Using L298N Motor Drive to control two dc motors.
+
+# Completed Work
+https://github.com/JiaxinHe66/CP1/blob/master/HC_control_two_dc_motors.ion.zip
+https://github.com/JiaxinHe66/CP1/blob/master/IMG_2521%20(1).mov
+
+# References and links
+https://github.com/JiaxinHe66/CP1/blob/master/DCMDriverL298.h.zip
+
